@@ -25,15 +25,7 @@ export default function WelcomePage() {
           />
         </div>
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-          <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-            {/* <div className="relative rounded-full px-3 py-1 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Pour decouvrir plus .{" "}
-              <Link href="#" className="font-semibold text-[#00b8b5]">
-                <span className="absolute inset-0" aria-hidden="true" />
-                lire plus <span aria-hidden="true">&rarr;</span>
-              </Link>
-            </div> */}
-          </div>
+          <div className="hidden sm:mb-8 sm:flex sm:justify-center"></div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight  sm:text-6xl">
               Tout ce dont vous avez besoin pour gérer votre école

@@ -14,6 +14,6 @@ export const siteConfig = {
     github: "https://github.com/shadcn/ui",
     docs: "https://ui.shadcn.com",
     signIn: "auth/SignIn/",
-    login: "/auth/SignUp",
+    login: "auth/SignUp",
   },
 }
