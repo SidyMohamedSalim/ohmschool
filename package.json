@@ -35,7 +35,7 @@
     "clsx": "^1.2.1",
     "docker": "^1.0.0",
     "jsonwebtoken": "^9.0.1",
-    "lucide-react": "0.105.0-alpha.4",
+    "lucide-react": "0.265.0",
     "next": "^13.4.4",
     "next-auth": "^4.22.3",
     "next-themes": "^0.2.1",
